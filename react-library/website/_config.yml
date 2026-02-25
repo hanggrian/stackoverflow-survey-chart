@@ -1,0 +1,9 @@
+title: My Library
+description: A very awesome library
+theme: just-the-docs
+
+url: https://johndoe.github.io/library/
+
+aux_links:
+  Library API reference: /api/library/
+  Library Extension API reference: /api/library-extensions/
